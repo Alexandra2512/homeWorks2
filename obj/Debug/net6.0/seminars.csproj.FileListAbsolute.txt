@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\MyEvningSeminars\homeworks\seminars\bin\Debug\net6.0\seminars.exe
+C:\Users\Anna\Desktop\MyEvningSeminars\homeworks\seminars\bin\Debug\net6.0\seminars.deps.json
+C:\Users\Anna\Desktop\MyEvningSeminars\homeworks\seminars\bin\Debug\net6.0\seminars.runtimeconfig.json
+C:\Users\Anna\Desktop\MyEvningSeminars\homeworks\seminars\bin\Debug\net6.0\seminars.dll
+C:\Users\Anna\Desktop\MyEvningSeminars\homeworks\seminars\bin\Debug\net6.0\seminars.pdb
+C:\Users\Anna\Desktop\MyEvningSeminars\homeworks\seminars\obj\Debug\net6.0\seminars.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\MyEvningSeminars\homeworks\seminars\obj\Debug\net6.0\seminars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\MyEvningSeminars\homeworks\seminars\obj\Debug\net6.0\seminars.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\MyEvningSeminars\homeworks\seminars\obj\Debug\net6.0\seminars.AssemblyInfo.cs
+C:\Users\Anna\Desktop\MyEvningSeminars\homeworks\seminars\obj\Debug\net6.0\seminars.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\MyEvningSeminars\homeworks\seminars\obj\Debug\net6.0\seminars.dll
+C:\Users\Anna\Desktop\MyEvningSeminars\homeworks\seminars\obj\Debug\net6.0\refint\seminars.dll
+C:\Users\Anna\Desktop\MyEvningSeminars\homeworks\seminars\obj\Debug\net6.0\seminars.pdb
+C:\Users\Anna\Desktop\MyEvningSeminars\homeworks\seminars\obj\Debug\net6.0\seminars.genruntimeconfig.cache
+C:\Users\Anna\Desktop\MyEvningSeminars\homeworks\seminars\obj\Debug\net6.0\ref\seminars.dll
